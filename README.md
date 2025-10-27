@@ -4,6 +4,7 @@
 # tugas_kedua
 
 A new Flutter project.
+![Uploading Cuplikan layar 2025-10-27 185644.png…]()
 
 ## Getting Started
 
